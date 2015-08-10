@@ -1,1 +1,1 @@
-# Mixr
+MIXr app
